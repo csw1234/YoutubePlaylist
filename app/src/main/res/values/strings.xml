@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CompieYouTubPlaylist</string>
+
+    <string name="dataLoadingError">Problem with loading the data Check your internet connection</string>
+    <string name="header">PlayLists</string>
+
+
+</resources>
